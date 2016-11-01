@@ -1,0 +1,42 @@
+.from {
+    width: 150px;
+    background-color: rgba(103, 103, 103, 0.23);
+    display: inline-block;
+    /* text-align: right; */
+    font-weight: 900;
+    /* display: inline-block; */
+    border-width: 10px;
+    border-color: #ff8b8b;
+    /* background-color: white; */
+    /*     color: black !important; */
+    border-radius: 5px;
+    padding-left: 4px;
+}
+.badges {
+    display: inline-block;
+    width: 75px;
+    display: none;
+}
+.message {
+    display: inline-block;
+}
+.chat-display img {
+    height: 10px;
+}
+.ember-chat .chat-messages .chat-line {
+    padding: 1px 20px;
+    margin: 0;
+}
+img[alt="reynadW"] {
+    height: 50px;
+}
+.saneHide {
+	visibility:hidden;
+	/* display:none; */
+}
+.timestamp {
+    display: none;
+}
+.colon {
+    display: none;
+}
